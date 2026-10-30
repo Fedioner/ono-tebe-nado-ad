@@ -1,1 +1,22 @@
-/* место для вашего кода */
+.header {
+  padding: 90px 50px;
+}
+
+.cover {
+  min-height: 757px;
+  padding: 155px 50px 50px;
+  color: #fff;
+  background: url(../images/cover.jpg) center / cover no-repeat;
+}
+
+.lots {
+  padding: 180px 24px 0;
+}
+
+.about {
+  padding: 155px 24px 180px;
+}
+
+.footer {
+  padding: 0 50px 82px;
+}

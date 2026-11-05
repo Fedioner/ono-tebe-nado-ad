@@ -130,7 +130,7 @@
 .lots {
   display: flex;
   flex-direction: column;
-  gap: 30px;
+  gap: 28px;
   padding: 180px 24px 0;
 }
 
